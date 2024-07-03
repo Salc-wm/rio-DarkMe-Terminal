@@ -1,0 +1,47 @@
+# ~\AppData\Local\themes\darkMeRio-White.toml
+
+[colors]
+  tabs = '#9b5724'
+  tabs-active = '#00000a'
+
+  selection-background = '#232121'
+  selection-foreground = '#ebdbb2'
+
+  text = '#2c2c2c'
+  cursor = '#586759'
+
+  background = '#e0dfda'
+  foreground = '#0c0b0c'
+
+# Regular colors
+  black  = '#fff5da'
+  red    = '#cc241d'
+  green  = '#17490f'
+  yellow = '#d79921'
+  blue   = '#158588'
+  magenta = '#562039'
+  cyan    = '#649d6a'
+  white   = '#a59984'
+
+# Light colors
+  light_black   = '#fffffd'
+  light_red     = '#fb4934'
+  light_green   = '#b8bb26'
+  light_yellow  = '#fabd2f'
+  light_blue    = '#83a598'
+  light_magenta = '#d3869b'
+  light_cyan    = '#8ec07c'
+  light_white   = '#ebdbb2'
+
+# Dim colors
+  dim-background = '#cacaca'
+  dim-foreground = '#0c0b0c'
+
+  dim-blue    = "#293e4c"
+  dim-cyan    = "#4c8482"
+  dim-magenta = "#5e4962"
+  dim-green   = "#4e6547"
+  dim-white   = "#828282"
+  dim-red     = "#74423f"
+  dim-black   = "#232323"
+  dim-yellow  = "#8b7653"
