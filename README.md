@@ -1,5 +1,5 @@
 <p align="center">
-    <!-- <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" /> -->
+    <img src="https://github.com/Salc-wm/rio-DarkMe-Terminal/assets/150378169/865c9262-d335-401c-81dd-90bab531330a" width="80" />
     <h1 align="center">DarkMe for <a target="_blank" href="https://raphamorim.io/rio/">Rio</a></h1>
 </p>
 <p align="center">You 🔮DARK Themes for Rio Terminal</p>
