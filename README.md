@@ -26,13 +26,15 @@ For better theme experience use
    `git clone git@github.com:Salc-wm/rio-DarkMe-Terminal.git`
   - Or of choice from themes/ to Rio's theme directory.
 ---
+In Windows := `AppData\Local\rio\themes`
+
 1. Move (theme file)`*.toml` to inside themes folder in { _(`~/.rio/themes`)_ } > Directory will depend on your system:
    - `darMeRio-Slim.toml`
    - `darMeRio-White.toml` >> Yes, lol
 
 2. Update `$HOME/.rio/config.toml` to activate the theme:
    ```toml
-   theme = "darMeRio-[Slim or White]"  # or darkMerio-*.toml of your preference
+   theme = "darkMeRio-[Slim or White]"  # or darkMerio-*.toml of your preference
    ```
 > [!WARNING]
 > Add **theme** in main scope
